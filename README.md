@@ -1,6 +1,6 @@
 # MagNet-overview-slides
 
-Slides for introductory talk of MagNet architecture.
+Slides for introductory talk of the MagNet architecture.
 
 ## Usage
 
